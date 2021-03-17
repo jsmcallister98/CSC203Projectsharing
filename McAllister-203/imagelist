@@ -1,0 +1,47 @@
+atlantis images/atlantis0.bmp 255 255 255 0
+atlantis images/atlantis1.bmp
+atlantis images/atlantis2.bmp
+atlantis images/atlantis3.bmp
+atlantis images/atlantis4.bmp
+atlantis images/atlantis5.bmp
+atlantis images/atlantis6.bmp
+enemy images/enemy-1.png 255 255 255 0
+enemy images/enemy-2.png 255 255 255 0
+enemy images/enemy-3.png 255 255 255 0
+enemy images/enemy-4.png 255 255 255 0
+enemy images/enemy-5.png 255 255 255 0
+enemy images/enemy-6.png 255 255 255 0
+enemy images/enemy-7.png 255 255 255 0
+enemy images/enemy-8.png 255 255 255 0
+crab images/ddeq5cl-1b8d68eb-6f01-44a0-b8ff-d9e908b5fe09-1.png 255 255 255 128
+crab images/ddeq5cl-1b8d68eb-6f01-44a0-b8ff-d9e908b5fe09-2.png 255 255 255 128
+crab images/ddeq5cl-1b8d68eb-6f01-44a0-b8ff-d9e908b5fe09-3.png 255 255 255 128
+crab images/ddeq5cl-1b8d68eb-6f01-44a0-b8ff-d9e908b5fe09-4.png 255 255 255 128
+crab images/ddeq5cl-1b8d68eb-6f01-44a0-b8ff-d9e908b5fe09-5.png 255 255 255 128
+sea images/sea.png 255 255 255 0
+octo images/flame0.png 255 255 255 0
+octo images/flame1.png 255 255 255 0
+octo images/flame2.png 255 255 255 0
+octo images/flame3.png 255 255 255 0
+obstacle images/fire_wall_by_zireael07_d8ty1lp-fullview.jpg
+fish images/bird-1.png 255 255 255 0
+fish images/bird-2.png 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+bubbles images/wall.png
+seaGrass images/spawner.png 255 255 255 0
+background_default images/none.bmp
+event images/event.png 255 255 255 0
+newcrab images/newcrab-0.png 255 255 255 0
+newcrab images/newcrab-1.png 255 255 255 0
+newcrab images/newcrab-2.png 255 255 255 0
+newcrab images/newcrab-3.png 255 255 255 0
+newcrab images/newcrab-4.png 255 255 255 0
+newcrab images/newcrab-5.png 255 255 255 0
+newcrab images/newcrab-6.png 255 255 255 0
+newcrab images/newcrab-7.png 255 255 255 0
+newcrab images/newcrab-8.png 255 255 255 0
